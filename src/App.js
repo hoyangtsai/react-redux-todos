@@ -1,7 +1,7 @@
 import './App.css';
 import Footer from './components/Footer';
-import AddTodo from './components/AddTodo';
-import VisibleTodoList from './components/VisibleTodoList';
+import AddTodo from './containers/AddTodo';
+import VisibleTodoList from './containers/VisibleTodoList';
 
 function App() {
   return (
